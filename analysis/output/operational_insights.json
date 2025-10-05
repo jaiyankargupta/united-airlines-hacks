@@ -1,0 +1,20 @@
+{
+  "difficult_destinations": [
+    "GRU",
+    "FRA",
+    "CDG",
+    "ATH",
+    "BRU",
+    "AMS",
+    "LHR",
+    "MEX",
+    "HND",
+    "HNL"
+  ],
+  "peak_difficulty_days": {
+    "2025-08-12": 0.11841186491954912,
+    "2025-08-13": 0.11836361909964749,
+    "2025-08-15": 0.1173925277388835
+  },
+  "total_high_difficulty": "9"
+}
